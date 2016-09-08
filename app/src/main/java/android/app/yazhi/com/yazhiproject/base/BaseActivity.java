@@ -3,13 +3,14 @@ package android.app.yazhi.com.yazhiproject.base;
 import android.app.Activity;
 import android.app.yazhi.com.yazhiproject.R;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.RelativeLayout;
 
 /**
  * Created by apple on 16-9-8.
  */
-public abstract class BaseActivity extends Activity {
+public abstract class BaseActivity extends AppCompatActivity {
     RelativeLayout llTopContain;
     RelativeLayout rlCenterContain;
     private View topView;

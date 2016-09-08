@@ -5,4 +5,6 @@
     <color name="colorAccent">#FF4081</color>
     <color name="mian_bg">#f1f1f1</color>
     <color name="white">#ffffff</color>
+    <color name="tab_main_normal">#aaa</color>
+    <color name="black">#000</color>
 </resources>
